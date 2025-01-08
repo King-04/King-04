@@ -1,6 +1,6 @@
-# Hi there, I'm Kenneth Boateng 👋
+# Hi 👋, I'm Kenneth Boateng 
 
-I'm a **data engineer and backend developer** with expertise in:
+I **build data solutions** with expertise in:
 - Data Engineering (ETL, pipelines, cloud platforms)
 - Data Analysis & Visualization (Power BI, Python)
 - Backend Development (Flask, Django, REST APIs)
@@ -18,20 +18,5 @@ In my spare time, I enjoy dabbling in:
 
 ### 🤝 Let's Collaborate!
 
-I'm currently freelancing and open to collaboration on:
-- **Data Engineering Projects:** Building ETL pipelines, data integration, and workflow automation.
-- **Data Visualization and Analysis:** Creating insightful dashboards using Power BI or web-based tools.
-- **Backend Development:** Developing robust APIs and backend systems with Flask and Django.
-
-Feel free to reach out if you'd like to work together or discuss a project idea!
-
-
 ### 📫 Connect with Me
 - [Email](kboateng396@gmail.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=King-04&show_icons=true)
-
-
-

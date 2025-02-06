@@ -11,12 +11,9 @@ I **build data solutions** with expertise in:
 - **Tools:** Power BI, Airflow, PostgreSQL, AWS, Docker, Apache Spark, Terraform
 - **Specialties:** Data pipelines, interactive dashboards, automation
 
-### 🌟 Things I Love to Explore
-In my spare time, I enjoy dabbling in:
+### 🌟In my spare time, I enjoy dabbling in:
 - **AI/ML:** Experimenting with machine learning models, natural language processing, and exploring real-world applications of AI.
 - **Web3:** Building decentralized apps (DApps), working with blockchain technologies, and exploring how Web3 reshapes the internet.
-
-### 🤝 Let's Collaborate!
 
 ### 📫 Connect with Me
 - [Email](kboateng396@gmail.com)
